@@ -49,7 +49,7 @@
         let indiceAtual = 0;
         let pontuacao = 0;
         let cronometro;
-        let tempoRestante = 15;
+        let tempoRestante = 20;
         let nomeUsuario = '';
 
         // Elementos do DOM
